@@ -7,7 +7,7 @@
 }
 .view{
     height: 300px;
-    width: 22%;
+    width: 30%;
     background-size: 200px 300px;
     display: flex;
     justify-content: space-between;
