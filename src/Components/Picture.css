@@ -7,8 +7,8 @@
 }
 .view{
     height: 440px;
-    width: 30%;
-    background-size: 30% 440px;
+    width: 380px;
+    background-size: 380px 440px;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
