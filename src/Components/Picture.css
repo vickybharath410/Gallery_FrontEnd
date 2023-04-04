@@ -6,9 +6,9 @@
     margin-top: 30px;
 }
 .view{
-    height: 440px;
-    width: 380px;
-    background-size: 380px 440px;
+    height: 400px;
+    width: 340px;
+    background-size: 340px 400px;
     display: flex;
     justify-content: space-between;
     flex-direction: column;
